@@ -8,3 +8,15 @@ an fbs is a system where data is stored in the form as flat files[.txt, .bin] cr
 
 #  DBMS
 A Database Management System (DBMS) is a software system that enables the creation, organization, and management of database, providing controlled access to data while enforcing constrains and maintaining data integrity, security and consistency.
+
+
+# models of DBMS
+
+## ER diagram
+A way to representing the system that we are about to build using pictorial description.
+
+       my employee works for operation department
+
+
+      
+
