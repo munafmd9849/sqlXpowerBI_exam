@@ -16,6 +16,11 @@ A Database Management System (DBMS) is a software system that enables the creati
 A way to representing the system that we are about to build using pictorial description.
 
        my employee works for operation department
+        
+       noun            verb (relation)                 noun   
+
+basics 
+
 
 
       
