@@ -22,6 +22,9 @@ A way to representing the system that we are about to build using pictorial desc
 basics 
 
 
+read Dbms
+
+
 
       
 
