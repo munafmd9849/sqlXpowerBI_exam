@@ -23,7 +23,7 @@ basics
 
 
 read Dbms
-
+reading
 
 
       
